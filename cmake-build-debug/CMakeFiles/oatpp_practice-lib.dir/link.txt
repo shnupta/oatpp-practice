@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liboatpp_practice-lib.a CMakeFiles/oatpp_practice-lib.dir/src/controller/MyController.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liboatpp_practice-lib.a

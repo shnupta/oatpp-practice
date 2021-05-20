@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.2 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/oatpp_practice.dir/src/App.cpp.o -o oatpp_practice  liboatpp_practice-lib.a /usr/local/lib/oatpp-1.2.5/liboatpp-test.a /usr/local/lib/oatpp-1.2.5/liboatpp.a 

@@ -1,0 +1,6 @@
+/Users/casey/CLionProjects/oatpp-practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/casey/CLionProjects/oatpp-practice/cmake-build-debug/CMakeFiles/oatpp_practice-test.dir
+/Users/casey/CLionProjects/oatpp-practice/cmake-build-debug/CMakeFiles/test.dir
+/Users/casey/CLionProjects/oatpp-practice/cmake-build-debug/CMakeFiles/oatpp_practice-lib.dir
+/Users/casey/CLionProjects/oatpp-practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/casey/CLionProjects/oatpp-practice/cmake-build-debug/CMakeFiles/oatpp_practice.dir
