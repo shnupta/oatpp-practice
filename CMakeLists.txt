@@ -27,7 +27,8 @@ target_link_libraries(${project_name} ${project_name}-lib)
 add_dependencies(${project_name} ${project_name}-lib)
 
 # Add test executable
-add_executable(${project_name}-test test/Tests.cpp)
+add_executable(${project_name}-test test/Tests.cpp test/app/TestComponent.hpp test/app/MyApiTestClient.hpp test/MyControllerTest.hpp test/MyControllerTest.cpp)
+target_link_libraries(${project_name}-test ${project_name}-lib)
 add_dependencies(${project_name}-test ${project_name}-lib)
 
 enable_testing()
